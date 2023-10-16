@@ -1,9 +1,9 @@
 .container {
-	width: 700px;
+	width: 800px;
 	margin: 30px auto;
 }
 
-@media (max-width:  960px) {
+@media (max-width:  970px) {
 	/* For a screen < 960px, this CSS wil be read */
 	.container {
 		width: 700px;
@@ -14,7 +14,7 @@
 	.container {
 		width: 500px;
 }
-@media (max-width: 540px) {
+@media (max-width: 640px) {
 	/* For a screen < 540px, this CSS wil be read */
 	.container {
 		width: 300px;
